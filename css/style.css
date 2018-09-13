@@ -1,0 +1,21 @@
+h1 {
+    font-size: 60px;
+    background-color: blue;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    background-color: red;
+    color: black;
+}
+
+h2 {
+    font-size: 45px;
+    background-color: blueviolet;
+    color: yellow;
+}
+
+body {
+    background-color:aqua;
+}
